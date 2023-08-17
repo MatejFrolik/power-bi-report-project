@@ -43,9 +43,10 @@ stejný postup u vytvoření hiearchie v tabulce population_czech_region
 8. Závěrečná grafická úprava reportu.
 
 
-### obrázky
+### ukázka grafického vyobrazení
 
 <br />
 
-![My Image](název.png)
+![My Image](visual.png)
+
 
